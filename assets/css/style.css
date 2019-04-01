@@ -1,0 +1,20 @@
+.jumbotron{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-image: url("../images/sand1.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
+
+body{
+    background-image: url("../images/sand1.jpg");
+    background-size: cover;
+}
+
+.main{
+    text-align: center;
+    font-size: 40px;
+    color: greenyellow;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
